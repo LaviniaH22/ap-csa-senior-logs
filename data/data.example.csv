@@ -1,0 +1,4 @@
+fname,lname,type,a,b,c,d,e
+Demo,Student,cred,password,TRUE,TRUE,,
+Sample,Graduate,profile,I enjoy building websites.,Studying computer science,Keep learning and stay curious.,#d9eaf7,demo@example.com
+Sample,Graduate,resour,MDN Web Docs,https://developer.mozilla.org/,Web development reference,,
